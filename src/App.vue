@@ -1,14 +1,20 @@
 <template>
   <nav-bar></nav-bar>
+  <main-content></main-content>
+  <main-footer></main-footer>
 </template>
 
 <script>
-import NavBar from './components/NavBar.vue';
+import NavBar from './components/NavBar.vue'
+import MainContent from './components/MainContent.vue'
+import MainFooter from './components/MainFooter.vue'
 
 export default {
   name: 'App',
   components: {
-    NavBar
+    NavBar,
+    MainContent,
+    MainFooter
   }
 }
 </script>
