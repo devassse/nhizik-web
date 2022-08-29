@@ -53,8 +53,7 @@
                 <div class="col-2">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b0.jpg)"
+                      class="media-content media-1"
                     ></a>
                   </div>
                 </div>
@@ -62,40 +61,35 @@
                 <div class="col-8">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b1.jpg)"
+                      class="media-content media-2"
                     ></a>
                   </div>
                 </div>
                 <div class="col-4">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b2.jpg)"
+                      class="media-content media-3"
                     ></a>
                   </div>
                 </div>
                 <div class="col-6">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b3.jpg)"
+                      class="media-content media-4"
                     ></a>
                   </div>
                 </div>
                 <div class="col-6">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b4.jpg)"
+                      class="media-content media-5"
                     ></a>
                   </div>
                 </div>
                 <div class="col-12">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b5.jpg)"
+                      class="media-content media-6"
                     ></a>
                   </div>
                 </div>
