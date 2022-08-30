@@ -21,5 +21,5 @@ export default {
 <style>
   /* Importing Main Stylesheet */
   @import './assets/css/main.scss';
-  @import './assets/css/site.min.css';
+  @import './assets/css/style.min.css';
 </style>
