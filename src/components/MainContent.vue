@@ -25,8 +25,8 @@
             </div>
           </div>
           <div class="page-container p-5 pos-rlt">
-            <div class="py-5 text-center">
-              <h2 class="display-4 font-weight-bold text-white mb-5">
+            <div class="text-center pt-5">
+              <h2 class="display-4 font-weight-bold text-purple mb-5 pt-5">
                 Conheça os Artistas
               </h2>
               <p>
@@ -63,6 +63,19 @@
                     <a
                       class="media-content media-2"
                     ></a>
+                    <!-- <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" style="border:1px dotted red">
+                      <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img :src="media1" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                          <img :src="media1" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                          <img :src="media1" class="d-block w-100" alt="...">
+                        </div>
+                      </div>
+                    </div> -->
                   </div>
                 </div>
                 <div class="col-4">
@@ -100,16 +113,14 @@
                 <div class="col-3">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b6.jpg)"
+                      class="media-content media-7"
                     ></a>
                   </div>
                 </div>
                 <div class="col-2">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b7.jpg)"
+                      class="media-content media-8"
                     ></a>
                   </div>
                 </div>
@@ -117,8 +128,7 @@
                 <div class="col-12">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b8.jpg)"
+                      class="media-content media-9"
                     ></a>
                   </div>
                 </div>
@@ -129,32 +139,28 @@
                 <div class="col-7">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b9.jpg)"
+                      class="media-content media-10"
                     ></a>
                   </div>
                 </div>
                 <div class="col-5">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b10.jpg)"
+                      class="media-content media-11"
                     ></a>
                   </div>
                 </div>
                 <div class="col-6">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b11.jpg)"
+                      class="media-content media-12"
                     ></a>
                   </div>
                 </div>
                 <div class="col-6">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b12.jpg)"
+                      class="media-content media-13"
                     ></a>
                   </div>
                 </div>
@@ -165,24 +171,21 @@
                 <div class="col-5">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b13.jpg)"
+                      class="media-content media-14"
                     ></a>
                   </div>
                 </div>
                 <div class="col-7">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b14.jpg)"
+                      class="media-content media-15"
                     ></a>
                   </div>
                 </div>
                 <div class="col-12">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b15.jpg)"
+                      class="media-content media-16"
                     ></a>
                   </div>
                 </div>
@@ -194,40 +197,35 @@
                 <div class="col-4">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b18.jpg)"
+                      class="media-content media-17"
                     ></a>
                   </div>
                 </div>
                 <div class="col-6">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b17.jpg)"
+                      class="media-content media-18"
                     ></a>
                   </div>
                 </div>
                 <div class="col-12">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b20.jpg)"
+                      class="media-content media-19"
                     ></a>
                   </div>
                 </div>
                 <div class="col-6">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b17.jpg)"
+                      class="media-content media-20"
                     ></a>
                   </div>
                 </div>
                 <div class="col-6">
                   <div class="media">
                     <a
-                      class="media-content"
-                      style="background-image: url(assets/img/b19.jpg)"
+                      class="media-content media-21"
                     ></a>
                   </div>
                 </div>
@@ -240,8 +238,13 @@
 </template>
 
 <script>
+import media1 from '../assets/img/b1.jpg'
 export default {
-
+  data(){
+    return{
+      media1
+    }
+  }
 }
 </script>
 

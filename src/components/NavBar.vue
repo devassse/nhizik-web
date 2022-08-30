@@ -35,7 +35,7 @@
               ></path>
             </g>
           </svg>
-          <span class="hidden-folded d-inline l-s-n-1x">Nuzik</span></a
+          <span class="hidden-folded d-inline l-s-n-1x">Nhuzik</span></a
         >
         <div
           class="collapse navbar-collapse order-2 order-lg-1"
