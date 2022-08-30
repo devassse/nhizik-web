@@ -1,8 +1,6 @@
 # nhizik-web
 Portal do Atleta - Web App
 
-# nhuzik-web
-
 ## Project setup
 ```
 npm install
