@@ -52,6 +52,11 @@
                 ><span class="nav-text">Músicas</span></a
               >
             </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link no-ajax"
+                ><span class="nav-text">MMA</span></a
+              >
+            </li>
           </ul>
         </div>
         <ul class="nav navbar-menu order-1 order-lg-2">

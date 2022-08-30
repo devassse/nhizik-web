@@ -61,11 +61,11 @@
               </div>
               <div class="col-6 col-md-2">
                 <ul class="list-unstyled l-h-2x text-highlight">
+                  <li><a href="#">MMA</a></li>
                   <li>
                     <a href="#">Novidades</a>
                   </li>
                   <li><a href="#">Top Semana</a></li>
-                  <li><a href="#">Perfis</a></li>
                   <li><a href="#">Albums</a></li>
                   <li><a href="#">Faixas</a></li>
                   <li>
