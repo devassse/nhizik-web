@@ -7,39 +7,7 @@
               <div class="col-4 col-md-3">
                 <div class="mb-3">
                   <a href="#" class="navbar-brand text-white"
-                    ><svg
-                      width="48"
-                      height="48"
-                      viewBox="0 0 24 24"
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                    >
-                      <circle
-                        cx="12"
-                        cy="12"
-                        r="10"
-                        stroke="currentColor"
-                        stroke-width="1"
-                        fill="#000"
-                      ></circle>
-                      <circle
-                        cx="12"
-                        cy="12"
-                        r="2"
-                        stroke="currentColor"
-                        stroke-width="1"
-                      ></circle>
-                      <g
-                        class="loading-spin"
-                        stroke="currentColor"
-                        stroke-width="1"
-                        style="transform-origin: 12px 12px"
-                      >
-                        <path
-                          d="M16.24 7.76a6 6 0 0 1 0 8.49m-8.48-.01a6 6 0 0 1 0-8.49m11.31-2.82a10 10 0 0 1 0 14.14m-14.14 0a10 10 0 0 1 0-14.14"
-                        ></path>
-                      </g>
-                    </svg>
+                    ><img src="../assets/img/logos/nhuzik-logo-inverted.png" alt=""/>
                     <span class="hidden-folded d-inline l-s-n-1x"
                       >Nhuzik</span
                     ></a
@@ -105,7 +73,7 @@
               </div>
             </div>
             <div class="text-center">
-              <span class="text-muted text-sm">Nhuzik - Portal de Música Moçambicana &copy; Todos Direitos Reservados.</span>
+              <span class="text-muted text-sm">Nhuzik &copy; Todos Direitos Reservados - <a href="https://keomagroup.netlify.app/" target="_blank">Keoma Software, Inc</a></span>
             </div>
           </div>
         </div>
