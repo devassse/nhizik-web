@@ -30,19 +30,18 @@
                 Conheça os Artistas
               </h2>
               <p>
-                Find the most popular artists and listen their music on Bepop,
-                Create your own playlist when listening to them.
+                Encontre e conheça os Artistas, escuta e faça playlists das tuas músicas favoritas e partilhe todas emoções.
               </p>
               <div class="py-4">
                 <a
                   href="#"
                   class="btn btn-md btn-outline-primary no-ajax m-2"
-                  >Explore artistas</a
+                  >Explorar artistas</a
                 >
                 <a
                   href="#"
                   class="btn btn-md btn-outline-primary m-2"
-                  >Albuns</a
+                  >Escutar agora (Streaming)</a
                 >
               </div>
             </div>

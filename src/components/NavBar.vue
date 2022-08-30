@@ -56,12 +56,12 @@
         </div>
         <ul class="nav navbar-menu order-1 order-lg-2">
           <li class="nav-item">
-            <a class="nav-link no-ajax" href="html/signin.html">Login</a>
+            <a class="nav-link no-ajax" href="#">Logar</a>
           </li>
           <li class="d-flex align-items-center">
             <a
               class="btn btn-rounded btn-sm btn-primary no-ajax"
-              href="html/signup.html"
+              href="#"
               >Registar</a
             >
           </li>
