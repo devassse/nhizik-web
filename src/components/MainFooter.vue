@@ -4,7 +4,7 @@
         <div class="page-container">
           <div class="py-5 text-inherit text-hover-primary">
             <div class="row mb-5">
-              <div class="col-4 col-md-3">
+              <div class="col-12 col-md-3 col-sm-6 col-xs-12">
                 <div class="mb-3">
                   <a href="#" class="navbar-brand text-white"
                     ><img src="../assets/img/logos/nhuzik-logo-inverted.png" alt=""/>
@@ -17,7 +17,7 @@
                   <p>Portal de Música Moçambicana - Nesta plataforma, encontramos a Bibliografia, a Discografia e todo o esforço artístico dos Moçambicanos nessa área cultural.</p>
                 </div>
               </div>
-              <div class="col-6 col-md-2">
+              <div class="col-6 col-md-2 col-sm-6 col-xs-12">
                 <ul class="list-unstyled l-h-2x text-highlight">
                   <li><a href="#">Artistas</a></li>
                   <li><a href="#">Músicas</a></li>
@@ -27,7 +27,7 @@
                   <li><a href="#">Registar</a></li>
                 </ul>
               </div>
-              <div class="col-6 col-md-2">
+              <div class="col-6 col-md-2 col-sm-6 col-xs-12">
                 <ul class="list-unstyled l-h-2x text-highlight">
                   <li><a href="#">MMA</a></li>
                   <li>
@@ -41,7 +41,7 @@
                   </li>
                 </ul>
               </div>
-              <div class="col-6 col-md-2">
+              <div class="col-12 col-md-2 col-sm-6 col-xs-12">
                 <ul class="list-unstyled l-h-2x text-highlight">
                   <li><a href="#">Políticas de privacidade</a></li>
                   <li><a href="#">Termos e condições</a></li>
@@ -50,7 +50,7 @@
                   <li><a href="#">Actualizações</a></li>
                 </ul>
               </div>
-              <div class="col-6 col-md-2 text-md-right">
+              <div class="col-6 col-md-2 col-sm-6 col-xs-12 text-md-right">
                 <h5 class="mb-3 text-muted">Siga-nos</h5>
                 <a href="#">
                   <img class="icon48" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABmJLR0QA/wD/AP+gvaeTAAAD5klEQVR4nO2a22tdRRSHvzWzk0h6YoRKfRGkNImWgi+9UESIARVrU8G2/gGFIqEY0GMLagX7oPiiDRipLUL/gIoXTFSKxYKXCtYnpaCnUVHBCvpgElMwOZnlQwO+ZM+e3cw+7k33B/tp1qz5ZZ215paBmpqampqaGxYJNbxtTDcklnERRoFBYF1xsq6LBaClygfLhtd+n5Q/QjoFBWDjId2vwmmgby0KO8icKgd+PiHvZBlmBmDgkO5X5QwgClNGOd7b4OI3r8hCFKmRuPuwrlu4yg5RmgqjgFPhsR8zguANwKYx3WBhBuhDea51Sl6OKbooBsf0qMCLwKzrYnDGUw7G5+imZcYTR1/imKrKHw9w+aS8ZJXpxNHfvcgTPltvAAzssQrGcTyuxOLpWmbCKlhlj88u8TY6NgEs9vB1THGd4B/HxV4BgQGfnTcDrNKwCpdOyN9x5RXP96dl3ioY9a9c3gywLq6oXKjKkxfYqcIDogypsF6u6V0QWET4C+XKxD3yQpqLEP3+EtDcsqPw1AUdNl/yKsJWYPW16j9tqQEI0V+6DDjyuR4U5Q0ytIVQuQx49lMdVjiJYmP4C9HvnwRd57LgmKoxhlMWrAVCPx8h+v0l0MEMcJ+xywp3xvQZor80JWCUh4OPpoFUahJMhJ0ZJucEnl7qZebYNrka4rNSk6BVbve1CzSfGZZv8/isVAZY5RZfe3+D73L7DNCftRXu2ERooNusCFrte3wr7bw+Q/RnHYY6RpZQEcn9U4ToL80yWMRYa18GO5kBBfisM6Bsq8Cb5zRdUobYtL7iuPfgg/LFam2l2wcUkeYov6Q1lW4fYOKnefuObq6kNZYvA+IH4LeREUndH5QuAwoogdT0hwgZEPsXi+1PswJQtuNw9BLwTIBwA5SAwK/e8co2CT76kKTeebz/kWePADyyK71vGqXLAB8FLJHlmwS9YxXhs1KHoQKCXa3DUBE+6wwIsPE11sfhil+IlG4f4KOIZbBS+4BCSqBKGVDInWCdAdk2Wf8YmbcKZ7ZoI5Yoz1jeLy8fDujNK33nfHZZAfghUeiB7fkl5GMt7wBWo93DtkQhUWZ8dv4ALDNlHSSO5nVoyIVR/5cXC82VBxJT3nG9jUtMJspcAqNnN+vR/DLCiVkCZzfr84ljd6LM9rZ53Webecb++C7dK8pbgEGZFmHCJHw1cinu28Gf3vbfB2zc578POL9FG67NDhWaKLsBh7Lv/pa85+sXdMnwyaDulWvP5ftD7EvArMCB+1rybpZh8C3L+SG9tcsxvvIUfQgofGXIyTxwWWB6yTA50pI//29BNTU1NTU1JedfST9jWXvBx2EAAAAASUVORK5CYII="/>

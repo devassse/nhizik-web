@@ -82,3 +82,19 @@ body{
 .media-21{
     background-image: url(../img/b19.jpg)
 }
+
+@media(max-width: 487px){
+    .display-3{
+        font-size: 2.4rem !important
+    }
+}
+@media(max-width: 431px){
+    .display-3{
+        font-size: 1.8rem !important
+    }
+}
+@media(max-width: 320px){
+    .display-3{
+        font-size: 1.2rem !important
+    }
+}
